@@ -26,3 +26,22 @@ See https://github.com/nesquena/rabl
 ## demo - event management app
 
 3 models: User, Event, EventGuest
+
+    # To load sample data
+    bundle exec rake db:migrate:reset
+    bundle exec rake db:fixtures:load
+
+
+### 1. use `extends` to reuse
+- http://localhost:3000/users/1
+- http://localhost:3000/users
+
+
+### 2. use `child` to add more fields
+- http://localhost:3000/events
+
+
+### 3. use `glue` to attach child fields directly to parent
+- http://localhost:3000/events/1/guests
+
+

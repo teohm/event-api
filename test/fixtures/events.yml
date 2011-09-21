@@ -1,7 +1,8 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
 
 gzruby:
-  creator: john
+  id: 1
+  creator_id: 1
   title: GZ Ruby Meetup
   description: awesome monthly Ruby meetup in GZ, China.
   start: 2011-09-21 07:49:49
@@ -9,7 +10,8 @@ gzruby:
   location: GZ, China
 
 sgruby:
-  creator: meng
+  id: 2
+  creator_id: 2
   title: Singapore RedDotRuby Conference 2011
   description: South East Asia's first Ruby on Rails conference
   start: 2011-09-21 07:49:49

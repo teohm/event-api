@@ -1,16 +1,19 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
 
 one:
-  event: sgruby
-  user: meng
+  id: 1
+  event_id: 1
+  user_id: 1
   rsvp: "yes"
 
 two:
-  event: sgruby
-  user: john
+  id: 2
+  event_id: 1
+  user_id: 2
   rsvp: "no"
 
 three:
-  event: gzruby
-  user: alice
+  id: 3
+  event_id: 2
+  user_id: 3
   rsvp: "maybe"
