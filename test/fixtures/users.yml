@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+john:
+  display_name: John
+  email: john@email.com
+  username: john
+  password: welcome
+
+meng:
+  display_name: Meng
+  email: meng@email.com
+  username: meng
+  password: welcome
+
+alice:
+  display_name: Alice
+  email: alice@email.com
+  username: alice
+  password: welcome

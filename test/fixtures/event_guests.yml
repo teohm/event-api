@@ -1,0 +1,16 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  event: sgruby
+  user: meng
+  rsvp: "yes"
+
+two:
+  event: sgruby
+  user: john
+  rsvp: "no"
+
+three:
+  event: gzruby
+  user: alice
+  rsvp: "maybe"

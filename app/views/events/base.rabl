@@ -1,0 +1,1 @@
+attributes :id, :title, :description, :start, :end, :location
